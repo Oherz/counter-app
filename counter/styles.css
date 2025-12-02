@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+.container {
+  background: #fff;
+  padding: 30px;
+    border-radius: 12px;
+     box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+    text-align: center;
+
+}
+h1 {
+    text-align: center;
+}
+
+#count{
+    font-size: 3rem;
+    margin: 20px 0;
+    text-align: center;
+   
+}
+
+button {
+margin: 5px;
+padding: 10px 20px;
+border: none;
+ background: #0077b5;
+color: #fff;
+font-size: 1rem;
+border-radius: 5px;
+cursor: pointer;
+   
+}
+button:hover {
+    background:#005f8d;
+
+
+}
